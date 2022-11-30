@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/5c41f8f161275bcaa8878b8c1949cb93/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/5c41f8f161275bcaa8878b8c1949cb93/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/fef08b66df355669c12afcfb51da7f4f/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/fef08b66df355669c12afcfb51da7f4f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/fef08b66df355669c12afcfb51da7f4f/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

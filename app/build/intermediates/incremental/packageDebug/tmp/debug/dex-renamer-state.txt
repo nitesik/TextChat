@@ -1,0 +1,4 @@
+#Tue Nov 01 19:47:04 IST 2022
+base.0=D\:\\Heuristicity\\4th Year\\Yogen's Project\\Textchat\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
